@@ -1,0 +1,9 @@
+{
+  "name": "Kaidon's Bot",
+  "short_name": "Kaidon's Bot",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050907",
+  "theme_color": "#07110b",
+  "description": "Kaidon's Bot offline starter"
+}
