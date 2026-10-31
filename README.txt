@@ -1,6 +1,6 @@
 KAIDON'S BOT — ANDROID STARTER
 
-This is a small installable-web-app prototype, not a finished native APK and not a WhatsApp group bot.
+This is a small installable-web-app prototype, not a finished native APK and a WhatsApp group bot can be added through the users number 0696870846
 
 WHAT WORKS NOW
 - Black and neon green chat interface
