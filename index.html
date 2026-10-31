@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#07110b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="style.css">
+<title>Kaidon's Bot</title>
+</head>
+<body>
+<header><div class="robot">🤖</div><div><h1>Kaidon's Bot</h1><p id="status">Offline-ready • Neon mode</p></div><button id="clear" title="Clear chat">↻</button></header>
+<main id="chat" aria-live="polite">
+  <article class="bubble bot"><b>Kaidon's Bot</b><p>Hosh! I'm here to bring the vibe. 💚 Ask me something or type <code>.help</code>.</p></article>
+</main>
+<form id="composer">
+  <input id="message" autocomplete="off" placeholder="Message Kaidon's Bot..." aria-label="Message">
+  <button type="submit">Send</button>
+</form>
+<nav><button data-command=".help">Help</button><button data-command=".joke">Joke</button><button data-command=".quiz">Quiz</button><button data-command=".rules">Rules</button></nav>
+<script src="app.js"></script>
+</body>
+</html>
